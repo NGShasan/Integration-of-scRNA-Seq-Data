@@ -6,7 +6,7 @@ Seurat is a package developed by Satija Lab.
 ## Result
 
 <p align="center"> 
-  <img width="650" src="https://user-images.githubusercontent.com/65890522/123649884-66366900-d82a-11eb-92b0-d0a457562db1.png">  
+  <img width="800" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/65890522/123649884-66366900-d82a-11eb-92b0-d0a457562db1.png">  
 </p>
 
 ## Contributor
