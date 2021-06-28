@@ -7,4 +7,4 @@ Seurat is a package developed by Satija Lab.
 - Mehadi Hasan <isaifmehadi@gmai.com>
 
 ## Licence and Copyright
-© Mehadi, Hasan, UNIVR
+© Hasan, Mehadi
