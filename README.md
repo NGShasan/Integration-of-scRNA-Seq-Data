@@ -10,4 +10,4 @@ Seurat is a package developed by Satija Lab.
 © Hasan, Mehadi
 
 # Reference
-[satijalab] (https://satijalab.org/seurat/)
+[satijalab](https://satijalab.org/seurat/)
