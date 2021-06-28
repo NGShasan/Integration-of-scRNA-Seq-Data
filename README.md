@@ -1,19 +1,20 @@
-## Integration-of-scRNA-Seq-Data
+### Integration-of-scRNA-Seq-Data
 Integrated Analysis of scRNA-Seq Data across species using R/Seurat
-## Seurat 
+
+### Seurat 
 Seurat is a package developed by Satija Lab.
 
-## Result
+### Result
 
 ![294](https://user-images.githubusercontent.com/65890522/123652351-82d3a080-d82c-11eb-90d5-b0cd6a1d261b.png)
 
-## Contributor
+### Contributor
 - Mehadi Hasan <isaifmehadi@gmai.com>
 
-## Licence and Copyright
+### Licence and Copyright
 © Hasan, Mehadi
 
-# Reference
+### Reference
 [satijalab](https://satijalab.org/seurat/)
 
 
