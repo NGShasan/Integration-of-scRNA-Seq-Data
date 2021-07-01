@@ -16,6 +16,3 @@ Seurat is a package developed by Satija Lab.
 
 ### Reference
 [satijalab](https://satijalab.org/seurat/)
-
-
-C:\Users\saifmehadi\OneDrive\Documents\GitHub\Integration-of-scRNA-Seq-Data
