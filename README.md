@@ -1,8 +1,8 @@
 ### Integration-of-scRNA-Seq-Data
-Integrated Analysis of scRNA-Seq Data across species using R/Seurat
+Integrated Analysis of scRNA-Seq Data across species using R/Bioconductor libraries.
 
 ### Seurat 
-Seurat is a R package developed by Satija Lab, NYU.
+Seurat is a R package developed by Satija Lab, NYU, USA.
 
 ### Integrated Analysis of scRNA-Seq Data across species using Seurat
 
