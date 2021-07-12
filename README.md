@@ -12,7 +12,7 @@ Seurat is a R package developed by Satija Lab, NYU, USA.
 ### OSCA
 “Orchestrating Single-Cell Analysis with Bioconductor”, a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq). 
 
-2. [osca] https://bioconductor.org/books/release/OSCA/
+2. [osca] (https://bioconductor.org/books/release/OSCA/)
 
 ### Integrated Analysis of scRNA-Seq Data across species
 
